@@ -10,3 +10,4 @@ def cobble
   puts "the shoe has been repaired"
   @condition = "new"
 end
+end
